@@ -14,6 +14,7 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Color(0xFFff22522),
+        
         centerTitle: true,
         title: const Text('Poke Api'),
       ),
